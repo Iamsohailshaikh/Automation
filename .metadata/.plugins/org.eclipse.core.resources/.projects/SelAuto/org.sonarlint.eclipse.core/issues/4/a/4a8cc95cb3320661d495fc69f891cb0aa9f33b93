@@ -1,0 +1,13 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ı•ñúÿÿÿÿ8ÿì¡•Ô/HòRMAJORZ
+CODE_SMELL
+Y
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ8¼Û²”Ô/HôRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(à¼Ş‚8Óº‰•Ô/HöRMAJORZ
+CODE_SMELL
+m
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8¼Û²”Ô/HøRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßµÚÂHúRMINORZ
+CODE_SMELL

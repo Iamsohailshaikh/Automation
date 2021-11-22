@@ -1,0 +1,19 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ÌäãÛşÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+i	java:S106
+"9Replace this use of System.out or System.err by a logger.(Şé°ÃûÿÿÿÿH€RMAJORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®•›ãúÿÿÿÿHRMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HƒRMINORZ
+CODE_SMELL
+[
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿH„RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(Ô—±ßøÿÿÿÿH‰RMAJORZ
+CODE_SMELL

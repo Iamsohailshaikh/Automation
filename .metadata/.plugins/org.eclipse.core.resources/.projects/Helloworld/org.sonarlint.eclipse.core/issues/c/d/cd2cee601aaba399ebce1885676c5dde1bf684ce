@@ -1,0 +1,14 @@
+
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ëóÇûøÿÿÿÿRMAJORZ
+CODE_SMELL
+k
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(«ïå™ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+S
+java:S1197"*Move the array designators [] to the type.(ÖŠ¤ÁRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¨«±øÿÿÿÿRMAJORZ
+CODE_SMELL
+C
+java:S1220""Move this file to a named package.RMINORZ
+CODE_SMELL

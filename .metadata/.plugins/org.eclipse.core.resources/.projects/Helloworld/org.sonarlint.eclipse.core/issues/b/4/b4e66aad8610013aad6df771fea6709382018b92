@@ -1,0 +1,18 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(öşİ¾şÿÿÿÿ8¡¯‘Ò/H‚	RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H‘RMINORZ
+CODE_SMELL
+i	java:S106	"9Replace this use of System.out or System.err by a logger.(áâ™­ùÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼•¤ºHŒRMINORZ
+CODE_SMELL
+~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õîó¸ıÿÿÿÿHŠRMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…á¤şÿÿÿÿHRMINORZ
+CODE_SMELL
+
+java:S1319"^The type of "b" should be an interface such as "Map" rather than the implementation "HashMap".(Õîó¸ıÿÿÿÿHRMINORZ
+CODE_SMELL

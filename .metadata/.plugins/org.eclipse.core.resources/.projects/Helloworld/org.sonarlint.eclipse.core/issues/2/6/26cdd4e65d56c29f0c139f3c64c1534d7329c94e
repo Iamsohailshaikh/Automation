@@ -1,0 +1,19 @@
+
+F
+java:S1220""Move this file to a named package.Hö
+RMINORZ
+CODE_SMELL
+c
+java:S1854"7Remove this useless assignment to local variable "Pen".(©­þ¡H÷
+RMAJORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©­þ¡Hø
+RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(˜øÆÅýÿÿÿÿHù
+RMAJORZ
+CODE_SMELL
+T
+java:S1481"(Remove this unused "Pen" local variable.(©­þ¡Hú
+RMINORZ
+CODE_SMELL

@@ -1,0 +1,48 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ΰΥκεώÿÿÿÿHΫ
+RMAJORZ
+CODE_SMELL
+
+java:S1319"aThe type of "b" should be an interface such as "List" rather than the implementation "ArrayList".(οφέ~Hά
+RMINORZ
+CODE_SMELL
+[
+java:S1197"*Move the array designators [] to the type.(Ò­ΕΝώÿÿÿÿHί
+RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(‘¬ζΗHβ
+RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hγ
+RMINORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(αβι‡Hδ
+RMINORZ
+CODE_SMELL
+Z
+java:S3740"/Provide the parametrized type for this generic.(οφέ~Hε
+RMAJORZ
+CODE_SMELL
+x	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(οφέ~Hζ
+RMINORZ
+CODE_SMELL
+U
+java:S1197
+"*Move the array designators [] to the type.(Β™™KHη
+RMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–η·ªόÿÿÿÿHκ
+RMINORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΓªΔ…Hλ
+RMINORZ
+CODE_SMELL
+x	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Β™™KHν
+RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(¤έΰόÿÿÿÿHξ
+RMAJORZ
+CODE_SMELL

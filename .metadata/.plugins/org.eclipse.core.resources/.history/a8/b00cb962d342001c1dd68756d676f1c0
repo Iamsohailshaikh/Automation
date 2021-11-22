@@ -1,0 +1,19 @@
+
+public class Sum {
+	public static void App() {
+	}
+	}
+
+ class Sum extends Sum
+{ 
+	public static void Apple() {
+	}
+	
+
+public static void  main(String args[]) {
+	System.out.println("Salary is 1000");
+	System.out.println("bnous is 5000");
+	App();
+}
+}
+

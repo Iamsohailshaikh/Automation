@@ -1,0 +1,12 @@
+
+€	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ÷ýº8êÀ—ÀÒ/HÌRMINORZ
+CODE_SMELL
+`	java:S108")Either remove or fill this block of code.(ë…ãÖûÿÿÿÿ8êÀ—ÀÒ/HÍRMAJORZ
+CODE_SMELL
+b
+java:S1135
+"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÎRINFOZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÏRMINORZ
+CODE_SMELL

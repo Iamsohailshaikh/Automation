@@ -1,0 +1,12 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(о¤сы√    HЮ
+RMAJORZ
+CODE_SMELL
+[
+java:S1197"*Move the array designators [] to the type.(б■╧╓°    HЯ
+RMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hв
+RMINORZ
+CODE_SMELL

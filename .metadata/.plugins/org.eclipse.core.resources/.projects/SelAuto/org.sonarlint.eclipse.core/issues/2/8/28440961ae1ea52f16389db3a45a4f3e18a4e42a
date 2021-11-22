@@ -1,0 +1,9 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßµÚÂH†RMINORZ
+CODE_SMELL
+[
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿHƒRMINORZ
+CODE_SMELL
+k
+java:S1161":Add the "@Override" annotation above this method signature(Ä ÏúüÿÿÿÿHRMAJORZ
+CODE_SMELL

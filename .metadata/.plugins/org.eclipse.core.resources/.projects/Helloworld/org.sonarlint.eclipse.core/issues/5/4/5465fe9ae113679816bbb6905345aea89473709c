@@ -1,0 +1,59 @@
+
+V
+java:S1197"*Move the array designators [] to the type.(ÊÆÒĞH…
+RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Æ‰ÇôúÿÿÿÿHˆ
+RMAJORZ
+CODE_SMELL
+h
+java:S1854 "7Remove this useless assignment to local variable "pen".(»Ç‡ŒÿÿÿÿÿH‰
+RMAJORZ
+CODE_SMELL
+[
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿHŠ
+RMINORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“ä™ÿşÿÿÿÿH
+RMINORZ
+CODE_SMELL
+[
+java:S1197"*Move the array designators [] to the type.(ÉàòêúÿÿÿÿH
+RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(©¡ŒÑH’
+RMAJORZ
+CODE_SMELL
+T
+java:S1481!"(Remove this unused "ABB" local variable.(º«üáH“
+RMINORZ
+CODE_SMELL
+|	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º«üáH•
+RMINORZ
+CODE_SMELL
+g	java:S125	"<This block of commented-out lines of code should be removed.(‰¬¢ÉH–
+RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(Ä„ìH—
+RMAJORZ
+CODE_SMELL
+c
+java:S1854!"7Remove this useless assignment to local variable "ABB".(º«üáH˜
+RMAJORZ
+CODE_SMELL
+`
+java:S3740"/Provide the parametrized type for this generic.(ŠŒĞ®ıÿÿÿÿH™
+RMAJORZ
+CODE_SMELL
+Y
+java:S1481 "(Remove this unused "pen" local variable.(»Ç‡ŒÿÿÿÿÿHš
+RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(î¯ÿ®ûÿÿÿÿHœ
+RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H
+RMINORZ
+CODE_SMELL

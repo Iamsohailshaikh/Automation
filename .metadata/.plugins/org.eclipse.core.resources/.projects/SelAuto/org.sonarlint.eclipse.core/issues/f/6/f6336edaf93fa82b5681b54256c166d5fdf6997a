@@ -1,0 +1,15 @@
+
+┘	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ъ╣збHЙRMINORZ
+CODE_SMELL
+╘
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(╨≥з78╫ш╡■т/HКRMINORZ
+CODE_SMELL
+Y
+java:S1128"&Remove this unused import 'java.util'.(н─▄ы8е█▓▌т/HМRMINORZ
+CODE_SMELL
+s
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(┴О╣■ЧЪЪЪЪ8е█▓▌т/HОRMINORZ
+CODE_SMELL
+i
+java:S1874"6Remove this use of "implicitlyWait"; it is deprecated.(╣▌В╝8й║╚■т/HЯRMINORZ
+CODE_SMELL

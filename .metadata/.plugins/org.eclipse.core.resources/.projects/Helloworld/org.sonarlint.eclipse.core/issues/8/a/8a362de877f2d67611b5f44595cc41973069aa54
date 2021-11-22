@@ -1,0 +1,19 @@
+
+S
+java:S1659"%Declare "reverse" on a separate line.(´ÔÊ•þÿÿÿÿRMINORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(¤Á‹ÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(†»£±RMAJORZ
+CODE_SMELL
+`	java:S106"9Replace this use of System.out or System.err by a logger.(çÖœvRMAJORZ
+CODE_SMELL
+J
+java:S1643"Use a StringBuilder instead.(’îâ‘ýÿÿÿÿRMINORZ
+CODE_SMELL
+C
+java:S1220""Move this file to a named package.RMINORZ
+CODE_SMELL
+[
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿRMINORZ
+CODE_SMELL

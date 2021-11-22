@@ -1,0 +1,6 @@
+
+public class constructExam {
+	constructExam(){
+		System.out.println("Hello world");
+	}
+}

@@ -1,0 +1,27 @@
+
+d	java:S106
+"9Replace this use of System.out or System.err by a logger.(‹¤·ÑHªRMAJORZ
+CODE_SMELL
+`
+java:S3740"/Provide the parametrized type for this generic.(…‰ŸîúÿÿÿÿH«RMAJORZ
+CODE_SMELL
+
+java:S1319"^The type of "D" should be an interface such as "Set" rather than the implementation "HashSet".(…‰ŸîúÿÿÿÿH¬RMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ÁÓ‹¿øÿÿÿÿH®RMAJORZ
+CODE_SMELL
+~	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‰ŸîúÿÿÿÿH³RMINORZ
+CODE_SMELL
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ôàğH´RMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…‰ŸîúÿÿÿÿHµRMINORZ
+CODE_SMELL
+[
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿH¶RMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H¹RMINORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§’ÈåHºRMINORZ
+CODE_SMELL

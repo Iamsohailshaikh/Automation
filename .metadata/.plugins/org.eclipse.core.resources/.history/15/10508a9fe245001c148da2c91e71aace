@@ -1,0 +1,28 @@
+
+class Fine{
+void mNumber()
+{
+	System.out.println("9769757619");
+}
+ final void atmpin() {
+	System.out.println("8887");
+
+}
+class Theif extends Fine {
+	@Override
+	void mNumber() {
+		System.out.println("9769757619");
+	}
+	@Override
+	void atmpin() {
+		System.out.println("8887");
+	}
+}
+class Final{
+	public void main(String[] args) {
+		Theif t=new Theif();
+		t.mNumber();
+				t.atmpin();
+	}
+}
+}

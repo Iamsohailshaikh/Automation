@@ -1,0 +1,18 @@
+
+o
+java:S1854"7Remove this useless assignment to local variable "app".(»¢¸üþÿÿÿÿ8ðØì”Ò/HçRMAJORZ
+CODE_SMELL
+b
+java:S1197
+"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8­áÚ”Ò/HàRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Á ¾Æúÿÿÿÿ8­áÚ”Ò/HßRMAJORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "app" local variable.(»¢¸üþÿÿÿÿ8ðØì”Ò/HèRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ýïˆùÿÿÿÿ8ðØì”Ò/HæRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÝRMINORZ
+CODE_SMELL

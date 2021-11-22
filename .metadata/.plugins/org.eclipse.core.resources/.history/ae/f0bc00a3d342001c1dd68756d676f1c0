@@ -1,0 +1,19 @@
+
+ class Inherit{
+	public static void App() {
+	}
+	}
+
+ class Sum extends Inherit
+{ 
+	public static void Apple() {
+	}
+	
+
+public static void  main(String args[]) {
+	System.out.println("Salary is 1000");
+	System.out.println("bnous is 5000");
+	App();
+}
+}
+

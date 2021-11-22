@@ -1,0 +1,26 @@
+
+class Final{
+void mNumber()
+{
+	System.out.println("9769757619");
+}
+void atmpin() {
+	System.out.println("8887");
+
+}
+class Theif extends Final{
+	void mNumber() {
+		System.out.println("9769757619");
+	}
+	void atmpin() {
+		System.out.println("8887");
+	}
+}
+class Final{
+	public void main(String[] args) {
+		Theif t=new Theif();
+		t.mNumber();
+				t.atmpin();
+	}
+}
+}

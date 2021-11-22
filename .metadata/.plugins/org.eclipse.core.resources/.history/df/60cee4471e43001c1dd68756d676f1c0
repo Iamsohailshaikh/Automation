@@ -1,0 +1,25 @@
+class Price
+{
+	public void apps(int a) {
+System.out.println("price of mobile");
+	}
+	
+	class discount extends Price{
+	public void discount(int b) {
+		System.out.println("Discount on mobile");
+
+	}
+		
+	}
+	
+public class constructExam {
+	constructExam(){
+		System.out.println("Hello world");
+}
+	public static void main(String args[]) {
+		constructExam AB= new constructExam();
+		
+	}
+
+}
+}
